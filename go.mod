@@ -1,1 +1,1 @@
-module protos
+module auth-grpc-protos
