@@ -1,1 +1,1 @@
-package protos
+module protos
